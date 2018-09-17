@@ -1,0 +1,57 @@
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\bin\Debug\WPF.exe.config
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\bin\Debug\WPF.exe
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\bin\Debug\WPF.pdb
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\bin\Debug\ItemCatalog.dll
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\bin\Debug\ItemCatalog.pdb
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\App.g.cs
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\MainWindow.baml
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF.g.resources
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF.exe
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\obj\Debug\WPF.pdb
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\bin\Debug\BusinessLayer.dll
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\WPF\bin\Debug\BusinessLayer.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\bin\Debug\WPF.exe.config
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF.exe
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\bin\Debug\WPF.exe
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\bin\Debug\WPF.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\bin\Debug\BusinessLayer.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\bin\Debug\ItemCatalog.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\bin\Debug\BusinessLayer.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\bin\Debug\ItemCatalog.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\App.g.cs
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\MainWindow.baml
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF.g.resources
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\birhat.zorlu\Desktop\WCF\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\WCF\WPF\bin\Debug\WPF.exe.config
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\WCF\WPF\obj\Debug\WPF.exe
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\WCF\WPF\obj\Debug\WPF.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\bin\Debug\WPF.exe.config
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF.exe
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\bin\Debug\WPF.exe
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\bin\Debug\WPF.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\bin\Debug\BusinessLayer.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\bin\Debug\ItemCatalog.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\bin\Debug\BusinessLayer.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\bin\Debug\ItemCatalog.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\App.g.cs
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF_MarkupCompile.lref
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\MainWindow.baml
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF.g.resources
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
