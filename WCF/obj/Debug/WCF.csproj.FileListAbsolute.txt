@@ -1,0 +1,63 @@
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\ApplicationInsights.config
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\WCF.dll.config
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\WCF.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\WCF.pdb
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\ItemCatalog.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.Web.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.WindowsServer.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.ApplicationInsights.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\ItemCatalog.pdb
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.Web.xml
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.AI.WindowsServer.xml
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\bin\Microsoft.ApplicationInsights.xml
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\obj\Debug\WCF.dll
+c:\users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\WCF\obj\Debug\WCF.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\ApplicationInsights.config
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\WCF.dll.config
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\WCF.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\WCF.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\ItemCatalog.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.Web.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\ItemCatalog.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.Web.xml
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\obj\Debug\WCF.dll
+C:\Users\birhat.zorlu\Desktop\WCF\WCF\obj\Debug\WCF.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\ApplicationInsights.config
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\WCF.dll.config
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\WCF.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\WCF.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\ItemCatalog.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.Web.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.ApplicationInsights.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\ItemCatalog.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.Web.xml
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\bin\Microsoft.ApplicationInsights.xml
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\obj\Debug\WCF.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\WCF\obj\Debug\WCF.pdb
