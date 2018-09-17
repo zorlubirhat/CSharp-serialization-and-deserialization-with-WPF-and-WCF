@@ -1,0 +1,15 @@
+c:\Users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\ItemCatalog\bin\Debug\ItemCatalog.dll
+c:\Users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\ItemCatalog\bin\Debug\ItemCatalog.pdb
+c:\Users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\ItemCatalog\obj\Debug\ItemCatalog.csprojResolveAssemblyReference.cache
+c:\Users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\ItemCatalog\obj\Debug\ItemCatalog.dll
+c:\Users\birhat.zorlu\documents\visual studio 2015\Projects\WCF\ItemCatalog\obj\Debug\ItemCatalog.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\ItemCatalog\bin\Debug\ItemCatalog.dll
+C:\Users\birhat.zorlu\Desktop\WCF\ItemCatalog\bin\Debug\ItemCatalog.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\ItemCatalog\obj\Debug\ItemCatalog.csprojResolveAssemblyReference.cache
+C:\Users\birhat.zorlu\Desktop\WCF\ItemCatalog\obj\Debug\ItemCatalog.dll
+C:\Users\birhat.zorlu\Desktop\WCF\ItemCatalog\obj\Debug\ItemCatalog.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\ItemCatalog\bin\Debug\ItemCatalog.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\ItemCatalog\bin\Debug\ItemCatalog.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\ItemCatalog\obj\Debug\ItemCatalog.csprojResolveAssemblyReference.cache
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\ItemCatalog\obj\Debug\ItemCatalog.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\ItemCatalog\obj\Debug\ItemCatalog.pdb

@@ -1,0 +1,24 @@
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\bin\Debug\ItemCatalog.dll
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\bin\Debug\ItemCatalog.pdb
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\birhat.zorlu\Documents\Visual Studio 2015\Projects\WCF\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\bin\Debug\ItemCatalog.dll
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\bin\Debug\ItemCatalog.pdb
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\birhat.zorlu\Desktop\WCF\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\bin\Debug\ItemCatalog.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\bin\Debug\ItemCatalog.pdb
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\brhtzrl\Desktop\Birhat Zorlu\Fall\C#\WCF\BusinessLayer\obj\Debug\BusinessLayer.pdb
